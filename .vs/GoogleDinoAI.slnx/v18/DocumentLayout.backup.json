@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Programm Proect\\GoogleDinoAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D40689F9-9853-44F6-86F5-8F8A782F1235}|GoogleDinoAI.pyproj|C:\\Users\\USER\\Desktop\\Programm Proect\\GoogleDinoAI\\GoogleDinoAI.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D40689F9-9853-44F6-86F5-8F8A782F1235}|GoogleDinoAI.pyproj|solutionrelative:GoogleDinoAI.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E826010B-7C44-45FC-99F2-9931BFC2A0DD}|..\\DinoAI\\Dino.pyproj|C:\\Users\\USER\\Desktop\\Programm Proect\\DinoAI\\Dino.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dino.py",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Programm Proect\\DinoAI\\Dino.py",
+              "RelativeDocumentMoniker": "..\\DinoAI\\Dino.py",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Programm Proect\\DinoAI\\Dino.py",
+              "RelativeToolTip": "..\\DinoAI\\Dino.py",
+              "ViewState": "AgIAAO4AAAAAAAAAAIBJwAABAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-05-22T17:25:28.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleDinoAI.py",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Programm Proect\\GoogleDinoAI\\GoogleDinoAI.py",
+              "RelativeDocumentMoniker": "GoogleDinoAI.py",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Programm Proect\\GoogleDinoAI\\GoogleDinoAI.py",
+              "RelativeToolTip": "GoogleDinoAI.py",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAOYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-05-22T16:48:18.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

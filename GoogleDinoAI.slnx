@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../DinoAI/Dino.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="e826010b-7c44-45fc-99f2-9931bfc2a0dd">
+    <Build Project="false" />
+  </Project>
+  <Project Path="GoogleDinoAI.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="d40689f9-9853-44f6-86f5-8f8a782f1235">
+    <Build Project="false" />
+  </Project>
+</Solution>
